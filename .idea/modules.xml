@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SocketMessagingClient/SocketMessagingClient.iml" filepath="$PROJECT_DIR$/../SocketMessagingClient/SocketMessagingClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SocketMessagingDatabaseManager/SocketMessagingDatabaseManager.iml" filepath="$PROJECT_DIR$/../SocketMessagingDatabaseManager/SocketMessagingDatabaseManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SocketMessagingModels/SocketMessagingModels.iml" filepath="$PROJECT_DIR$/../SocketMessagingModels/SocketMessagingModels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketMessagingServer.iml" filepath="$PROJECT_DIR$/SocketMessagingServer.iml" />
+    </modules>
+  </component>
+</project>
